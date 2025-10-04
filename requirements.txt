@@ -1,0 +1,5 @@
+pandas
+mlxtend
+jupyterlab
+matplotlib
+seaborn
